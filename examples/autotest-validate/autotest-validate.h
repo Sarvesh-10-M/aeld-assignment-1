@@ -1,3 +1,4 @@
+
 #ifndef AUTOTEST_VALIDATE_H
 #define AUTOTEST_VALIDATE_H
 
